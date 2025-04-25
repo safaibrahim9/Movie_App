@@ -1,16 +1,23 @@
-# filmler_app
+# 🎬 Movie App
 
-A new Flutter project.
+**Movie App**, kullanıcılara popüler filmleri, detaylarını ve puanlarını gösteren bir web uygulamasıdır. API desteğiyle dinamik içerik sağlar ve modern kullanıcı arayüzü sunar.
 
-## Getting Started
+## 🚀 Özellikler
 
-This project is a starting point for a Flutter application.
+- 🔍 Film arama özelliği
+- 🎞️ Popüler filmleri listeleme
+- 📝 Film detaylarını görüntüleme (isim, açıklama, puan, poster vb.)
+- 🌙 Karanlık ve aydınlık mod (eğer varsa)
+- ⚡ Hızlı ve kullanıcı dostu arayüz
 
-A few resources to get you started if this is your first Flutter project:
+## 🧰 Kullanılan Teknolojiler
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+  -SQL
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 Kurulum ve Kullanım
+
+1. Bu repoyu klonlayın:
+
+```bash
+git clone https://github.com/safaibrahim9/Movie_App.git
